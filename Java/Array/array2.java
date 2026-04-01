@@ -1,3 +1,4 @@
+//To demonstrate a practical example of using arrays, let's create a program that calculates the average of different ages:
 package Array;
 public class array2 {
     public static void main(String[] args) {
