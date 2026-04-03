@@ -43,7 +43,7 @@ class Student{
 
 public class Q1{
     public static void main(String[] args) {
-         Student s1 = new Student("Aman", 26);
+        Student s1 = new Student("Aman", 26);
         s1.display();
 
         s1.setMarks(90);
