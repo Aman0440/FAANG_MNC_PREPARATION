@@ -54,7 +54,7 @@ class Manager extends Employee{
 
 public class Q2 {
     public static void main(String[] args) {
-        Manager m1 = new Manager("Aman", 50000, 2355);
+        Manager m1 = new Manager("Aman", 50000, 10000);
 
         System.out.println("Name: " + m1.getName());
         System.out.println("Salary: " + m1.getSalary());
